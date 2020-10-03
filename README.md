@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/EndlessSkyCommunity/EndlessSky-Discord-Bot.svg?branch=master)](https://travis-ci.org/MCOfficer/EndlessSky-Discord-Bot)
 [![GitHub license](https://img.shields.io/github/license/EndlessSkyCommunity/EndlessSky-Discord-Bot)](https://github.com/EndlessSkyCommunity/EndlessSky-Discord-Bot/blob/master/LICENSE)
 
-Meet James, the Discord Bot made specifically for the Endless Sky Server.
+Meet Alondo, the Discord Bot made specifically for the Endless Sky: Stories Server. A modified version of James.
 
 ## Installation
 ### Requirements
